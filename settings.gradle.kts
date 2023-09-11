@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "sublibrary"
 include(":app")
- 
+include(":toastlib")
